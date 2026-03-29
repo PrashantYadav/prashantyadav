@@ -1,10 +1,10 @@
 # Hello! 
-## I'm Prashant, a Full Stack Developer
+## I'm Prashant, a Back-end Engineer
 
 ## Just another software nerd here!
 
 - 🔭 I’m currently working on improving data structures and algorithms skills
-- :computer: Currently a Full Stack .Net Developer with 6+ years of experience
+- :computer: Currently a Full Stack .Net Developer with 10+ years of experience
 - 🤔 I’m looking for help in getting referrals for top tech companies.
 - 💬 Ask me about .Net, Data Structures. 
 
